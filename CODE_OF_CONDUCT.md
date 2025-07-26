@@ -1,0 +1,1 @@
+📜 This Code of Conduct outlines our expectations for participants within the project community. It aims to foster an open, welcoming, inclusive, and harassment-free environment where everyone feels respected and valued.
