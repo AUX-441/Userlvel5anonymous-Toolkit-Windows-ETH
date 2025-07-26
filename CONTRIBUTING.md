@@ -61,7 +61,7 @@ This Code of Conduct applies within all project spaces, including GitHub reposit
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported confidentially by email to:
 
-**📧 Email:** `your-email@example.com`
+**📧 Email:** `mahangolami55@gmail.cpm`
 
 All reports will be reviewed and investigated promptly and fairly. All project maintainers are obligated to respect the privacy and safety of the reporter.
 
