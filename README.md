@@ -126,4 +126,12 @@ No Persistent Installation: Leaves minimal forensic traces
 
 - Link back to this repository
 
+```bash
+pip install -r requirements.txt
+```
+
+```bash
+python main.py
+```
+
 
